@@ -1,0 +1,14 @@
+name = "terminal_colours"
+description = "A CLI demo program for displaying colour output."
+version = "1.0.0"
+
+authors = ["Simon Rowe"]
+maintainers = ["Simon Rowe <simon@wiremoons.com>"]
+maintainers-logins = ["wiremoons"]
+
+executables = ["terminal_colours"]
+
+
+
+[[depends-on]]  # This line was added by `alr with`
+gnatcoll = "^21.0.0"  # This line was added by `alr with`
