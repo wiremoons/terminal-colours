@@ -26,6 +26,8 @@ Once built the program can be found in the **bin** sub directory. It can be run
 from a Windows `cmd.exe` or `pwsh` prompt, or a Linux terminal. I have not tested 
 it on macOS.
 
+![Terminal_Colours](./img/terminal_colours.png)
+
 
 ## Building the Application
 
